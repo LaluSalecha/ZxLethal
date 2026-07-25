@@ -1,0 +1,3 @@
+/data/data/com.termux/files/home/HelloSDL/ZxLethal/build/CMakeFiles/ZxLethal.dir
+/data/data/com.termux/files/home/HelloSDL/ZxLethal/build/CMakeFiles/edit_cache.dir
+/data/data/com.termux/files/home/HelloSDL/ZxLethal/build/CMakeFiles/rebuild_cache.dir
